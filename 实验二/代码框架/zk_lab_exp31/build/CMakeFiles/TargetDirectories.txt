@@ -1,0 +1,5 @@
+/home/ds-wangxu/实验一/zk_lab_exp31/build/CMakeFiles/mysetup.dir
+/home/ds-wangxu/实验一/zk_lab_exp31/build/CMakeFiles/myprove.dir
+/home/ds-wangxu/实验一/zk_lab_exp31/build/CMakeFiles/myverify.dir
+/home/ds-wangxu/实验一/zk_lab_exp31/build/CMakeFiles/edit_cache.dir
+/home/ds-wangxu/实验一/zk_lab_exp31/build/CMakeFiles/rebuild_cache.dir
